@@ -1,0 +1,42 @@
+  /* Style the registration section */
+  #registration h2 {
+    font-size: 1.5em;
+    color: #444;
+    margin-bottom: 0.5em;
+  }
+  
+  #registration form {
+    margin-top: 1em;
+  }
+  
+  #registration form ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #registration form li {
+    margin: 0.5em 0;
+  }
+  
+  #registration-action {
+    text-align: center;
+    margin-top: 1em;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.5em 1em;
+    margin-bottom: 5px;
+    background-color: #c35af3;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .btn:hover {
+    background-color: #b251df;
+  }

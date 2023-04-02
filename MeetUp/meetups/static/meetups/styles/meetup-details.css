@@ -1,0 +1,79 @@
+/* Set basic styles for the main and article elements */
+main {
+    background-color: #f7f7f7;;
+    border: 3px solid rgb(87, 59, 90);
+    border-radius: 10px;
+    padding: 0;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Style the image */
+img {
+    border: 2px solid black;
+    border-radius: 50%;
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 5px auto;
+}
+
+/* Style the location section */
+#location {
+    text-align: center;
+}
+
+#location h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#location address {
+    font-style: normal;
+    font-size: 1.2rem;
+}
+
+#location span {
+    font-weight: bold;
+}
+
+/* Style the details section */
+#details {
+    text-align: center;
+}
+
+#details h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#details p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+#details footer {
+    margin-top: 1rem;
+}
+
+#details footer p {
+    font-size: 1rem;
+}
+
+#details footer a {
+    color: blue;
+    text-decoration: none;
+    border-bottom: 1px solid blue;
+}
+
+#registration h2 {
+    text-align: center;
+    font-size: 1.5em;
+    color: #444;
+    margin-bottom: 0.5em;
+  }
+  

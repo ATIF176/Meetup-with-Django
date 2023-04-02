@@ -1,0 +1,45 @@
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+  }
+  #confirmation {
+    margin-top: 2em;
+    padding: 1em;
+    background-color: #f7f7f7;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  #confirmation h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+  
+  #confirmation p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  #confirmation a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  #confirmation a:hover {
+    text-decoration: underline;
+  }
+  #continue {
+    margin-top: 2em;
+    text-align: center;
+  }
+  
+  #continue p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+  }
+  
